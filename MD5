@@ -1,4 +1,4 @@
-38c8dddc7303db05e4735b9d6ba333ea *DESCRIPTION
+01ed645413e6fcdc3b798b4dfa99d41b *DESCRIPTION
 942c1cbe83235e22cd9451737a016d00 *INDEX
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 cfcc9ba2141a3b6f3d1bbf0e78997ae9 *R/calplot.R
@@ -6,11 +6,11 @@ cfcc9ba2141a3b6f3d1bbf0e78997ae9 *R/calplot.R
 406cda50bf9db63b4939a00ccf4e4de9 *R/lod.R
 6402c1a34661f0af0dd0f724d795a3e9 *R/loq.R
 ee4993dbb6ada4c7a2a6f2dc154306ad *TODO
-93a87600a0e3f8426da806bca6598d81 *data/din32645.rda
+f83ab2ae0299988afef148d3e82c6ab7 *data/din32645.rda
 b2f29c8e36db47fab8e291c07b6836d3 *data/massart97ex1.rda
 b635cba9b96208f6a30cabe666cbe43f *data/massart97ex3.rda
 a64a0ab832c9ff1772ce92b5d244f759 *inst/doc/chemCal.Rnw
-631f6c708a9d930f9cc9e25afe7bfec7 *inst/doc/chemCal.pdf
+6128911be0eecc8e3d277a4ae5300369 *inst/doc/chemCal.pdf
 bc168261ee62c7d300599be3ee624db0 *man/calplot.lm.Rd
 d5fb28c9d19bb5be440879959cd5da36 *man/chemCal-package.Rd
 65743fede1c2c253531e7c1e81af18bd *man/din32645.Rd
@@ -25,8 +25,8 @@ d4e0e836076a0c61b426b69856c72bfc *tests/massart97.R
 07bb5ede4427ada847ff0273c73a59ac *tests/massart97.Rout.save
 c268879d1641fb618459198642815309 *vignettes/Makefile
 ec7fbefc3fbbc82ce0e1037de04fceff *vignettes/chemCal-001.eps
-0cf7739f385b0d50694877fee7082015 *vignettes/chemCal-001.pdf
+ad34c24b997e7f12b186a9e0bb712c8e *vignettes/chemCal-001.pdf
 66394244d814ad3ea58646f60a6bffb4 *vignettes/chemCal-002.eps
-c5fe63651dbcc2c9981cdace6f4177de *vignettes/chemCal-002.pdf
+b2af2f5184888c74a24e7e7dc5a3e466 *vignettes/chemCal-002.pdf
 a64a0ab832c9ff1772ce92b5d244f759 *vignettes/chemCal.Rnw
 d0c4f03ca2151935f891867159a0ea80 *vignettes/chemCal.tex
