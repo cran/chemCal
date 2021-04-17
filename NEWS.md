@@ -1,4 +1,13 @@
-# chemCal 0.2.1 (2018-07-17)
+
+# chemCal 0.2.2
+
+- 'calplot' gains an argument 'legend_x' for better control of the legend position
+
+- Added the cadmium dataset from Rocke and Lorenzato (1995)
+
+- Suggest: rmarkdown as it is not a dependency of knitr any more, as pointed out by Kurt Hornik
+
+# chemCal 0.2.1
 
 - 'inverse.predict': Do not work on the means of the calibration standards any more, as this ignores the variability of y values about the means. Thanks to Anna Burniol Figols for pointing out this issue
 
@@ -12,7 +21,11 @@
 
 - Update static documentation
 
-# chemCal 0.1-33 (2014-04-24)
+# chemCal 0.1-37
+
+- Maintenance release
+
+# chemCal 0.1-34
 
 - Bugfix in lod() and loq(): In the case of small absolute x values (e.g. on
 	the order of 1e-4 and smaller), the lod or loq calculated using the default

@@ -1,15 +1,15 @@
 Package: chemCal
-Version: 0.2.1
-Date: 2018-07-17
+Version: 0.2.2
+Date: 2021-04-15
 Title: Calibration Functions for Analytical Chemistry
 Authors@R: c(person("Johannes", "Ranke", role = c("aut", "cre", "cph"), 
                     email = "jranke@uni-bremen.de",
                     comment = c(ORCID = "0000-0003-4371-6538")))
-Suggests: MASS, knitr, testthat, investr
+Suggests: MASS, knitr, testthat, investr, covr, rmarkdown
 Description: Simple functions for plotting linear
 	calibration functions and estimating standard errors for measurements
 	according to the Handbook of Chemometrics and Qualimetrics: Part A
-	by Massart et al. There are also functions estimating the limit
+	by Massart et al. (1997) There are also functions estimating the limit
 	of detection (LOD) and limit of quantification (LOQ).
 	The functions work on model objects from - optionally weighted - linear
 	regression (lm) or robust linear regression ('rlm' from the 'MASS' package).
@@ -18,14 +18,14 @@ LazyLoad: yes
 LazyData: yes
 VignetteBuilder: knitr
 Encoding: UTF-8
-BugReports: http://github.com/jranke/chemCal/issues
-URL: https://pkgdown.jrwb.de/chemCal,
+BugReports: https://github.com/jranke/chemCal/issues
+URL: https://pkgdown.jrwb.de/chemCal/,
         https://cgit.jrwb.de/chemCal/about
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2018-07-17 17:25:04 UTC; jranke
+Packaged: 2021-04-17 05:19:55 UTC; jranke
 Author: Johannes Ranke [aut, cre, cph]
     (<https://orcid.org/0000-0003-4371-6538>)
 Maintainer: Johannes Ranke <jranke@uni-bremen.de>
 Repository: CRAN
-Date/Publication: 2018-07-17 18:00:02 UTC
+Date/Publication: 2021-04-17 05:30:02 UTC
