@@ -1,9 +1,9 @@
 Package: chemCal
-Version: 0.2.2
-Date: 2021-04-15
+Version: 0.2.3
+Date: 2022-03-31
 Title: Calibration Functions for Analytical Chemistry
 Authors@R: c(person("Johannes", "Ranke", role = c("aut", "cre", "cph"), 
-                    email = "jranke@uni-bremen.de",
+                    email = "johannes.ranke@jrwb.de",
                     comment = c(ORCID = "0000-0003-4371-6538")))
 Suggests: MASS, knitr, testthat, investr, covr, rmarkdown
 Description: Simple functions for plotting linear
@@ -21,11 +21,11 @@ Encoding: UTF-8
 BugReports: https://github.com/jranke/chemCal/issues
 URL: https://pkgdown.jrwb.de/chemCal/,
         https://cgit.jrwb.de/chemCal/about
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-04-17 05:19:55 UTC; jranke
+Packaged: 2022-03-31 18:01:51 UTC; jranke
 Author: Johannes Ranke [aut, cre, cph]
     (<https://orcid.org/0000-0003-4371-6538>)
-Maintainer: Johannes Ranke <jranke@uni-bremen.de>
+Maintainer: Johannes Ranke <johannes.ranke@jrwb.de>
 Repository: CRAN
-Date/Publication: 2021-04-17 05:30:02 UTC
+Date/Publication: 2022-04-01 12:10:06 UTC
